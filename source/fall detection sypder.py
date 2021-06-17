@@ -59,7 +59,7 @@ while(1):
                 t_s="ACc51294ea27ad1464b3e7b6000742c46c"
                 t_a = "92f88891df24eb7dacdbc983d6c1e07e"
                 client = Client(t_s,t_a)
-                TO = "+917801028373"
+                TO = "+91"
                 FROM="+12067923295"
                 client.messages.create(to=TO,from_=FROM,body="Your Kid has FALLEN DOWN......(OR).....Your Parent has FALLEN DOWN")
                 time.sleep(2000)
