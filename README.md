@@ -1,4 +1,4 @@
-# SPSGP-459-Intelligent-Fall-Detection-Monitoring-using-Computer-Vision
+# Intelligent-Fall-Detection-Monitoring-using-Computer-Vision
 
 Members of the team:   **Thadka S. Keerthika**
 
